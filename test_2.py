@@ -471,7 +471,7 @@ async def unban_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # ============= ЗАПУСК =============
 def main():
-    TOKEN = "7413306182:AAGb8XrvkgoioGdNqBT6DMVHeISGG-dMWvM"
+    TOKEN = "ВВЕДИТЕ ТОКЕН ВАШЕГО БОТА"
 
     print("=" * 50)
     print("🤖 ЗАПУСК АНТИСПАМ БОТА")
